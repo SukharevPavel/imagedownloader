@@ -1,0 +1,27 @@
+<resources>
+    <string name = "app_name">ImageDownloader</string>
+
+    <!--Menu strings-->
+    <string name = "menu_refresh">Refresh</string>
+
+    <!--ListFragment strings-->
+    <string name = "dialog_load_data">Загрузка данных</string>
+    <string name = "dialog_parse_data">Обработка данных</string>
+    <string name = "toast_download_error">Не удалось скачать данные</string>
+    <string name = "toast_parse_error">Ошибка</string>
+    <string name = "fragment_list_empty">Нет данных</string>
+    <string name = "fragment_dialog_load_db">Загрузка данных из базы данных</string>
+    <string name = "list_empty">Нет данных</string>
+
+    <!--ViewPagerFragment strings-->
+    <string name="image_activity_name">Изображение</string>
+
+    <!--ImageFragment strings-->
+    <string name="fragment_image_content_desc">Изображение, загружаемое из сети Интернет</string>
+    <string name="toast_image_dl_failed">Не удалось загрузить изображение</string>
+    <string name="dialog_load_image">Загрузка изображения</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
